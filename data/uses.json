@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "label": "Languages",
+      "value": "Python, SQL",
+      "icon": "fas fa-code"
+    },
+    {
+      "label": "Frameworks",
+      "value": "Pandas, NumPy, Scikit-learn",
+      "icon": "fas fa-toolbox"
+    },
+    {
+      "label": "Tools",
+      "value": "Power BI, Tableau, Excel",
+      "icon": "fas fa-wrench"
+    },
+    {
+      "label": "Focus",
+      "value": "Data Analytics, Business Intelligence",
+      "icon": "fas fa-laptop-code"
+    }
+  ]
+}

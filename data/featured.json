@@ -1,0 +1,81 @@
+{
+  "sectionTitle": "Featured Projects",
+  "items": [
+    {
+      "title": "fraud-detection-in-python",
+      "tagline": "Jupyter Notebook",
+      "description": "Full-featured application built as a learning exercise",
+      "coverUrl": "",
+      "stack": [
+        "Jupyter Notebook"
+      ],
+      "repo": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "demo": "",
+      "accent": "violet"
+    },
+    {
+      "title": "time-series-forecasting-python",
+      "tagline": "Jupyter Notebook · Python · HTML",
+      "description": "Modern web application demonstrating clean code principles",
+      "coverUrl": "",
+      "stack": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "repo": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "demo": "",
+      "accent": "cyan"
+    },
+    {
+      "title": "creditcardfrauddetection-mlops",
+      "tagline": "Jupyter Notebook · Python · HTML",
+      "description": "Modern web application demonstrating clean code principles",
+      "coverUrl": "",
+      "stack": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "repo": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "demo": "",
+      "accent": "fuchsia"
+    },
+    {
+      "title": "mutual-fund-analysis-dashboard-python-powerbi",
+      "tagline": "HTML",
+      "description": "Educational project for mastering software architecture",
+      "coverUrl": "",
+      "stack": [
+        "HTML"
+      ],
+      "repo": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "demo": "",
+      "accent": "violet"
+    },
+    {
+      "title": "supply-chain-dashboard",
+      "tagline": "Python",
+      "description": "Learning project built with modern web technologies",
+      "coverUrl": "",
+      "stack": [
+        "Python"
+      ],
+      "repo": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "demo": "",
+      "accent": "cyan"
+    },
+    {
+      "title": "call-center-performance-analytics-dashboard",
+      "tagline": "Personal project",
+      "description": "Educational project for mastering software architecture",
+      "coverUrl": "",
+      "stack": [],
+      "repo": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "demo": "",
+      "accent": "fuchsia"
+    }
+  ]
+}

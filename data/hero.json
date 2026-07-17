@@ -1,0 +1,48 @@
+{
+  "eyebrow": "// data analyst",
+  "greeting": "Hi, I'm",
+  "name": "HAMSIKA",
+  "surnameGradient": "CHINTAKUNTLA",
+  "title": "Data Analyst",
+  "rotatingSubtitles": [
+    "Data Analyst",
+    "Data Analytics",
+    "Business Intelligence"
+  ],
+  "summary": "Data Analyst with 4+ years of experience delivering data-driven solutions across financial services and healthcare technology. Experienced in SQL, Python, Power BI, Tableau, and Advanced Excel for data analysis, ETL/ELT pipelines, dashboard development, KPI reporting, and business intelligence. Skilled in transforming complex datasets into actionable business insights through data validation, statistical analysis, trend analysis, and reporting automation. Familiar with Machine Learning, NLP, OpenAI API, LLM Integration, Prompt Engineering, Retrieval-Augmented Generation (RAG), and AI powered analytics to support predictive decision-making and process improvement. Strong collaborator with experience partnering with cross functional stakeholders to improve data quality, reporting accuracy, and operational efficiency.",
+  "avatarUrl": "",
+  "openToWork": true,
+  "cta": {
+    "buttons": [
+      {
+        "text": "View work",
+        "href": "#projects",
+        "type": "primary",
+        "external": false,
+        "icon": "fas fa-arrow-right"
+      },
+      {
+        "text": "Get in touch",
+        "href": "#contact",
+        "type": "secondary",
+        "external": false,
+        "icon": "fas fa-paper-plane"
+      },
+      {
+        "text": "Copy email",
+        "href": "#",
+        "type": "ghost",
+        "external": false,
+        "icon": "fas fa-envelope",
+        "action": "copy-email"
+      }
+    ]
+  },
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:chintakuntlahamsika@gmail.com",
+      "icon": "fas fa-envelope"
+    }
+  ]
+}

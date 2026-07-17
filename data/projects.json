@@ -1,0 +1,85 @@
+{
+  "sectionTitle": "Featured Projects",
+  "projects": [
+    {
+      "title": "fraud-detection-in-python",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [
+        "Jupyter Notebook"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/hamsikavarma/fraud-detection-in-python",
+      "demo": "https://github.com/hamsikavarma/fraud-detection-in-python"
+    },
+    {
+      "title": "time-series-forecasting-python",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/hamsikavarma/time-series-forecasting-python",
+      "demo": "https://github.com/hamsikavarma/time-series-forecasting-python"
+    },
+    {
+      "title": "creditcardfrauddetection-mlops",
+      "description": "Modern web application demonstrating clean code principles",
+      "technologies": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML",
+        "CSS",
+        "Dockerfile"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops",
+      "demo": "https://github.com/hamsikavarma/creditcardfrauddetection-mlops"
+    },
+    {
+      "title": "mutual-fund-analysis-dashboard-python-powerbi",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "HTML"
+      ],
+      "icon": "fas fa-brain",
+      "github": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi",
+      "demo": "https://github.com/hamsikavarma/mutual-fund-analysis-dashboard-python-powerbi"
+    },
+    {
+      "title": "supply-chain-dashboard",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [
+        "Python"
+      ],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/hamsikavarma/supply-chain-dashboard",
+      "demo": "https://github.com/hamsikavarma/supply-chain-dashboard"
+    },
+    {
+      "title": "call-center-performance-analytics-dashboard",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard",
+      "demo": "https://github.com/hamsikavarma/call-center-performance-analytics-dashboard"
+    },
+    {
+      "title": "power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "description": "Learning project built with modern web technologies",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax",
+      "demo": "https://github.com/hamsikavarma/power-bi-mastery-dynamic-dashboards-advanced-dax"
+    },
+    {
+      "title": "hr-analytics-kpi-dashboard-using-power-bi",
+      "description": "Full-featured application built as a learning exercise",
+      "technologies": [],
+      "icon": "fas fa-project-diagram",
+      "github": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi",
+      "demo": "https://github.com/hamsikavarma/hr-analytics-kpi-dashboard-using-power-bi"
+    }
+  ]
+}
